@@ -1,4 +1,4 @@
-# Andrej_karpathy_skillsV3.0
+# Andrej_karpathy_skillsV2.0
 Used Initial Enhanced Karpathys Skills to make V2.0
 
 
