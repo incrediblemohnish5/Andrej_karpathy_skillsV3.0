@@ -1,4 +1,4 @@
-How to Make AI Actually Better
+How to reduce AI errors
 
 
 
