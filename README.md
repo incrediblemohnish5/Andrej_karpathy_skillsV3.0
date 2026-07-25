@@ -157,10 +157,3 @@ After finishing ---------- did AI really check, or is the AI just assuming?
 
 
 So you have to give all this whatever AI you use like Gemini or ChatGPT or Grok or Claude or Meta AI and then the model will get better.
-
-
-
-
-
-
-- USE WITH CAUTION!I AM NOT RESPONSIBLE FOR ANY UNTOWARD INCIDENTS AND THIS IS PURELY SUGGESTIVE WITH NO COERCION INVOLVED.
