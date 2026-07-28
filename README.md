@@ -16,8 +16,6 @@ When you use an AI tool, a few things can go wrong:
 
 
 
-
-
 The AI just assumes what you mean without asking
 
 
@@ -156,4 +154,3 @@ After finishing ---------- did AI really check, or is the AI just assuming?
 
 
 
-So you have to give all this whatever AI you use like Gemini or ChatGPT or Grok or Claude or Meta AI and then the model will get better.
